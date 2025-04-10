@@ -20,6 +20,8 @@ Corrigir os testes existentes da integração entre `DisplayHeaders` e `Cookie`,
 
 3. Gerei novos testes para classe Expires para que a cobertura pudesse ficar em 100% - teste para chamada de método inválido e teste com um valor negativo.
 
+![image](https://github.com/user-attachments/assets/54b3d379-655d-40c6-aa86-c7fedcae13d4)
+
 ---
 
 ## Execução
