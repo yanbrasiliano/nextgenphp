@@ -26,7 +26,7 @@ final class ValidatorIntegrationTest extends TestCase
         ;
 
         $this->assertTrue($validationGroup->validate(302));
-        $this->assertTrue($validationGroup->validate('304')); // Testando com string numérica
+        $this->assertTrue($validationGroup->validate('304'));
     }
 
     public function testShouldFailValidationWhenAnyValidatorFails(): void
